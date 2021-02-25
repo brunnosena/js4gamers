@@ -1,0 +1,11 @@
+{
+  "name": "brunnosena-js4gamers",
+  "version": "1.0.0",
+  "description": "Javascript 4 Gamers - Aprenda JS criando um game!",
+  "author": "Brunno Sena <gabrieltosta3@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
