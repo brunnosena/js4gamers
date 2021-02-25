@@ -23,6 +23,22 @@ Tela
 
 <img src="./.github/cover.png" width="700" /> 
 
+# Personas
+
+Hero
+<br>
+<img src="./src/assets/images/hero.png" /> 
+
+
+Mini Demon
+<br>
+<img src="./src/assets/images/mini-demon.png" /> 
+
+
+Chest
+<br>
+<img src="./src/assets/images/chest.png" /> 
+
 # Techs
 
  - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
